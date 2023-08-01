@@ -3,3 +3,8 @@ I am revising HTML, CSS again as newbie following this video [YouTube Tutorial](
 
 ## Learning Notes
 - [HTML-CSS-References](https://supersimpledev.github.io/references/html-css-reference.pdf)
+
+
+
+### Other resources I might can follow
+* [Web Dev](https://web.dev/)
